@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fifa-worldcup2026/static/css/main.ce75a281.css",
+    "main.js": "/fifa-worldcup2026/static/js/main.034371a0.js",
+    "static/js/453.107ec165.chunk.js": "/fifa-worldcup2026/static/js/453.107ec165.chunk.js",
+    "static/media/france.jpg": "/fifa-worldcup2026/static/media/france.76ec90b819c2a00a090b.jpg",
+    "static/media/argentina.jpg": "/fifa-worldcup2026/static/media/argentina.f2a358b33234b8bf2ed9.jpg",
+    "static/media/mexico.jpg": "/fifa-worldcup2026/static/media/mexico.81e3f4ccd193ee983531.jpg",
+    "static/media/hero.jpg": "/fifa-worldcup2026/static/media/hero.502a4650b2fb0b74ed21.jpg",
+    "static/media/england.jpg": "/fifa-worldcup2026/static/media/england.04707700acdfa6b3294c.jpg",
+    "static/media/stadium.jpg": "/fifa-worldcup2026/static/media/stadium.2e81251bbed9cc91c353.jpg",
+    "static/media/canada.jpg": "/fifa-worldcup2026/static/media/canada.bf1890bd3c08d9c28c97.jpg",
+    "static/media/usa.jpg": "/fifa-worldcup2026/static/media/usa.78c7c29102865f449ccd.jpg",
+    "static/media/brazil.jpg": "/fifa-worldcup2026/static/media/brazil.b01b9158e74972122ef5.jpg",
+    "index.html": "/fifa-worldcup2026/index.html",
+    "main.ce75a281.css.map": "/fifa-worldcup2026/static/css/main.ce75a281.css.map",
+    "main.034371a0.js.map": "/fifa-worldcup2026/static/js/main.034371a0.js.map",
+    "453.107ec165.chunk.js.map": "/fifa-worldcup2026/static/js/453.107ec165.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce75a281.css",
+    "static/js/main.034371a0.js"
+  ]
+}
